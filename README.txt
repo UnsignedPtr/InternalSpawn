@@ -8,3 +8,6 @@ V2.1
 
 V2.0
 - 分割源文件，方便编译和修改。
+  asmlib.cpp - 用于向游戏进程注入汇编的函数（参考了Pt源码）
+  setlimits.cpp - 统计游戏出怪列表的刷怪限制
+  writelist.cpp - 刷列表程序的主函数
